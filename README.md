@@ -1,2 +1,4 @@
-# mcp-ref-check-20260717t041409-1-06a517
-Disposable dual-machine MCP default-ref consistency probe
+# MCP Ref Check
+
+run=20260717T041409-1-06a517
+version=v1
